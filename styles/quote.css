@@ -1,0 +1,37 @@
+.quote {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e5e7eb;
+    flex-direction: column;
+    margin: 50 50 50 50;
+    padding-bottom: 100px;
+}
+.blockquote {
+    text-align: left;
+    font-family: Roboto;
+    font-style:italic ;
+    color: #1f2937;
+    font-weight: 300;
+    font-size: 36px;
+    padding-bottom: 0;
+    padding-top: 100px;
+    padding-left: 230px;
+    padding-right: 250px;
+    margin-bottom: 0;
+}
+.cite {
+    text-align: right;
+    float: right;
+    font-family: Roboto;
+    color: #1f2937;
+    font-weight:900;
+    font-size: 21px;
+    padding-bottom: 0;
+    padding-top: 0px;
+    padding-left: 300px;
+    padding-right: 0px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 100px;
+}

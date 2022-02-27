@@ -1,3 +1,4 @@
 # ProjectLandingPage
-odin project
--make 4 sections
+My first proper webpage. 
+No cheating done, excuse my mistakes. 
+Feeling quite accomplished :)
